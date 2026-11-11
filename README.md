@@ -46,7 +46,7 @@ All amounts are integers in minor units (cents / paise).
 ## Getting started
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/JAISHANKAR388/Payment-Service>
 cd payment-service
 npm run demo     # walkthrough of both apps
 npm start        # REST API on http://localhost:3000
