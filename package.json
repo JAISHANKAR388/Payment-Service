@@ -1,0 +1,8 @@
+{
+  "name": "payment-service",
+  "version": "1.0.0",
+  "description": "One reusable payment engine, many applications (shop, bank, ...) via per-app profiles",
+  "main": "src/index.js",
+  "scripts": { "start": "node src/server.js", "demo": "node src/demo.js" },
+  "engines": { "node": ">=18" }
+}
